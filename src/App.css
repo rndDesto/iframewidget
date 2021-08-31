@@ -1,0 +1,39 @@
+.buttonPesanan{
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  margin: 30px;
+  border-radius: 4px;
+}
+.detailPemesanan{
+  padding: 10px;
+  color: #fff;
+  background-color: #E8590C;
+  margin: 0 30px;
+  border-radius: 4px;
+}
+
+.closeIframe{
+  padding: 10px;
+  color: #fff;
+  background-color: red;
+  margin:30px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+.linkFrame{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #cecece;
+}
+
+.linkFrame iframe{
+  width: 50%;
+  height: 500px;
+  margin-bottom: 30px;
+
+}
